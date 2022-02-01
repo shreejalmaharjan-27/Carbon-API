@@ -18,7 +18,7 @@ async def open_carbonnowsh(url):
         'behavior': 'allow',
         'downloadPath': DOWNLOAD_FOLDER
     })
-    await page.goto(url, timeout=1000)
+    await page.goto(url, timeout=10000)
     return browser, page
 
 
