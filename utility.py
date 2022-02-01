@@ -1,7 +1,7 @@
 import json
 
 defaultOptions = {
-    "backgroundColor": "rgba(171, 184, 195, 1)",
+    "backgroundColor": "rgba(232, 232, 232, 1)",
     "code": "",
     "dropShadow": True,
     "dropShadowBlurRadius": "68px",
@@ -12,10 +12,10 @@ defaultOptions = {
     "fontSize": "14px",
     "language": "auto",
     "lineNumbers": False,
-    "paddingHorizontal": "25px",
-    "paddingVertical": "25px",
+    "paddingHorizontal": "10px",
+    "paddingVertical": "10px",
     "squaredImage": False,
-    "theme": "seti",
+    "theme": "nord",
     "watermark": False,
     "widthAdjustment": True,
     "windowControls": True,
