@@ -9,15 +9,6 @@
     <br>
 </p>
 
-### Show some :heart: and :star: the repo
-
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/Carbon-API.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/JioSaavnAPI)
-![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
-
-## Carbon API written in Python using Flask and Pyppeteer
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 > **Carbon**  makes it easy to create and share beautiful images of your source code
 
 #### Usage
@@ -44,11 +35,6 @@ You can use the API by sending a GET or a POST request using these params
 | `windowControls`       | `true`                     | boolean | turn on/off window controls                      |
 | `windowTheme`          | `"none"`                   | string  | window theme                                     |
 
-### GET `/`
-Params are encoded in url
-```bash
-https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&theme=darcula&backgroundColor=rgba(144, 19, 254, 100)
-```
 
 ### POST `/`
 
@@ -65,9 +51,7 @@ https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&them
 ### RESPONSE
 **Response** is an image of a code or text snippet.
 <p align="center">
-    <a href="https://github.com/cyberboysumanjay">
         <img src="resources/response.png" alt="Response">
-    </a>
 </p>
 
 #### Deploy Option
@@ -92,8 +76,3 @@ https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&them
   # Finally run the app
   python3 app.py
   ```
-### Made with ❤️️ in India
-### Copyright & License 
-
-* Copyright (C) 2020 by [Sumanjay](https://github.com/cyberboysumanjay)
-* Licensed under the terms of the [GNU GPL Version 3](https://github.com/cyberboysumanjay/Carbon-API/blob/master/LICENSE)

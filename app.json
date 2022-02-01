@@ -9,9 +9,8 @@
         "pyppeteer",
         "api"
     ],
-    "success_url": "https://t.me/sjprojects",
-    "website": "https://github.com/cyberboysumanjay/Carbon-API",
-    "repository": "https://github.com/cyberboysumanjay/Carbon-API",
+    "website": "https://github.com/shreejalmaharjan-27/Carbon-API",
+    "repository": "https://github.com/shreejalmaharjan-27/Carbon-API",
     "addons": [],
     "buildpacks": [
         {
