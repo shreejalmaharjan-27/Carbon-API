@@ -57,7 +57,7 @@ You can use the API by sending a GET or a POST request using these params
 #### Deploy Option
 
 * **[Heroku](https://www.heroku.com/) Method** 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/Carbon-API/tree/master)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shreejalmaharjan-27/Carbon-API)
 
 * **Other Method** 
 
